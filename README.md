@@ -1,7 +1,6 @@
 ### Bem vindo! Eu sou Marcelo De Lima.
 
 - 🌱 Estudante de desenvolvimento fullstack na Trybe
-- 💬 Contate-me no email: delima_marcelo@outlook.com
 <hr>
  <div align="center">
   <a href="https://github.com/maarceloo">
