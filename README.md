@@ -1,6 +1,7 @@
-### Bem vindo! Eu sou Marcelo De Lima.
+### Bem vindo ao meu Github! 
 
 - 🌱 Estudante de desenvolvimento fullstack na Trybe
+
 <hr>
 <br>
  <div align="center">
