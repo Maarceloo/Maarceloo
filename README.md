@@ -1,43 +1,75 @@
-### Bem vindo ao meu Github! 
+### Bem vindo ao meu Github!
 
-- 🌱 Estudante de desenvolvimento fullstack na Trybe
+- 🌱 Atualmente estudo POO (Programação Orientada a Objetos) | backend
+- 🎓 Estudante de desenvolvimento Web Full Stack na Trybe.
 
-<hr>
-<br>
+### Contato:
+<div>
+  <a href="mailto:delima_marcelo@outlook.com"><img
+      src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+      target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcelo-lima-866803221/" target="_blank"><img
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      target="_blank"></a>
+</div>
 
- <div align="center">
-   <a href="https://github.com/maarceloo/github-readme-stats">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarceloo&layout=compact&theme=tokyonight" />
-   </a>
-   <a href="https://github.com/anuraghazra/convoychat">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=maarceloo&show_icons=true&theme=tokyonight" />
+<br />
+
+<div align="center">
+  <a href="https://github.com/maarceloo/github-readme-stats">
+    <img height="180em" align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=maarceloo&layout=compact&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="180em" align="center"
+      src="https://github-readme-stats.vercel.app/api?username=maarceloo&show_icons=true&theme=tokyonight" />
   </a>
 </div>
 
-  <div style="display: inline_block">
-  <br>
-<hr>
-  <img align="center" alt="Lima-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lima-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lima-REDUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="Lima-HTML" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lima-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lima-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />        
-  <img align="center" alt="Lima-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lima-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" alt="Lima-JEST" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
-  <img align="center" alt="Lima-ESLINT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg"/>
-  <img align="center" alt="Lima-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="Lima-DOCKER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
-  <img align="center" alt="Lima-TYPESCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>      
-</div>
-
+<div style="display: inline_block">
   <hr>
-  <br>
-  
-  <div> 
-  <a href = "mailto:delima_marcelo@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcelo-lima-866803221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
+  ### Linguagem:
+  <img align="center" alt="Lima-JS"
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Lima-PYTHON"
+    src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Lima-TYPESCRIPT"
+    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <hr />
+
+  ### Front-end:
+  <img align="center" alt="Lima-REACT"
+    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Lima-REDUX"
+    src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img align="center" alt="Lima-HTML"
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Lima-CSS"
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Lima-BOOTSTRAP"
+    src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img align="center" alt="Lima-JEST"
+    src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
+  <hr />
+
+  ### Back-end:
+  <img align="center" alt="Lima-MYSQL"
+    src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="Lima-NODE_JS"
+    src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="Lima-EXPRESS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img align="center" alt="Lima-SEQUELIZE"
+    src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" />
+  <img align="center" alt="Lima-MOCHA"
+    src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown" />
+    <img align="center" alt="Lima-WEB_TOKEN"
+    src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
+  <hr />
+
+  ### Ferramentas:
+  <img align="center" alt="Lima-GIT"
+    src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="Lima-DOCKER"
+    src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
