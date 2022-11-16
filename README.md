@@ -72,4 +72,6 @@
     src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="Lima-DOCKER"
     src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img align="center" alt="Lima-VSCODE"
+    src="https://img.shields.io/badge/VSCode-323330?style=for-the-badge&logo=visualstudiocode&logoColor=blue" />
 </div>
