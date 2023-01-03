@@ -1,6 +1,6 @@
 ### Bem vindo ao meu Github!
 
-- 🌱 Atualmente estudo POO (Programação Orientada a Objetos) com TypeScript | backend
+- 🌱 Atualmente estudo PYTHON | Ciência da Computaçao
 - 🎓 Estudante de desenvolvimento Web Full Stack na Trybe.
 
 ### Contato:
