@@ -27,14 +27,16 @@
 
   ### Linguagem:
   <img align="center" alt="Lima-JS"
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript">
   <img align="center" alt="Lima-TYPESCRIPT"
     src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+   <img align="center" alt="Lima-PYTHON"
+    src="https://img.shields.io/badge/python-fbcc04?style=for-the-badge&logo=python&logoColor=042453" />
   <hr />
 
   ### Front-end:
   <img align="center" alt="Lima-REACT"
-    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Lima-REDUX"
     src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img align="center" alt="Lima-HTML"
