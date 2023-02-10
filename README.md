@@ -40,8 +40,6 @@
   ### Front-end:
   <img align="center" alt="Lima-REACT"
     src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Lima-REDUX"
-    src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img align="center" alt="Lima-HTML"
     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Lima-CSS"
@@ -50,6 +48,8 @@
     src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="Lima-JEST"
     src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
+<!--   <img align="center" alt="Lima-REDUX"
+    src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> -->
   <hr />
 
   ### Back-end:
@@ -62,10 +62,10 @@
   <img align="center" alt="Lima-EXPRESS" src="https://img.shields.io/badge/Express.js-323330?style=for-the-badge&logo=Express&logoColor=white" />
   <img align="center" alt="Lima-SEQUELIZE"
     src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" />
-  <img align="center" alt="Lima-MOCHA"
-    src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown" />
-    <img align="center" alt="Lima-WEB_TOKEN"
+  <img align="center" alt="Lima-WEB_TOKEN"
     src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
+<!--   <img align="center" alt="Lima-MOCHA"
+    src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown" /> -->
   <hr />
 
   ### Ferramentas:
