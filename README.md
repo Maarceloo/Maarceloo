@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/developer-marcelo-de-lima/" target="_blank"><img
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       target="_blank"></a>
+  <a href="https://wa.me/31975018594"><img
+      src="https://img.shields.io/badge/Whatsapp-43853D?style=for-the-badge&logo=whatsapp&logoColor=white"
+      target="_blank"></a>
 </div>
 
 <br />
